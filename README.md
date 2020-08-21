@@ -1,1 +1,2 @@
-# PurpleStripedUnicorn.github.io
+# PurpleStripedUnicorn
+This is my small little website :)
